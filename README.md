@@ -1,4 +1,9 @@
-#anonymizedata
+# Anon data
+
+
+![](https://img.shields.io/github/forks/marioggil/anonymizedata.svg?style=plastic)
+![](https://img.shields.io/github/issues/marioggil/anonymizedata.svg?style=plastic)
+![](https://img.shields.io/github/stars/marioggil/anonymizedata.svg?style=plastic)
 
 These script is to anonymize and desanonimize data set with funtion of hash and password.
 
